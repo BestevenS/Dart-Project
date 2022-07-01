@@ -1,0 +1,33 @@
+[
+    {
+      "dateTime": "2020-10-11",
+      "heartRate": 93.0
+    },
+    {
+      "dateTime": "2020-10-12",
+        "heartRate": 93.0
+    },
+    {
+      "dateTime": "2020-10-13",
+      "heartRate": 93.0
+    },
+    {
+      "dateTime": "2020-10-14",
+      "heartRate":  120.0
+            
+    },
+    {
+      "dateTime": "2020-10-15",
+      "heartRate":  101.0
+            
+    },
+    {
+      "dateTime": "2020-10-16",
+      "heartRate": 99.0
+      
+    },
+    {
+      "dateTime": "2020-10-17",
+      "heartRate":130.0
+    }
+]
